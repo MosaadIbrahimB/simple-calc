@@ -1,4 +1,4 @@
-# net
+# simple-calc
 
 A new Flutter project.
 
