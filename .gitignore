@@ -34,6 +34,7 @@ migrate_working_dir/
 lib/contact_task/
 lib/net/
 lib/task4/
+assets/images
 # Symbolication related
 app.*.symbols
 
